@@ -15,13 +15,15 @@ I am pleased to introduce myself to you. I am Ibrahim from Algeria, a web, Windo
 
 Python:
 ```py
-	print("Welcom")
+print("Welcom")
 ```
 Dart:
 ```dart
-	print("Welcom");
+void main(){
+    print("Welcom");
+}
 ```
 JavaScript:
 ```js
-	console.log("Welcom")
+console.log("Welcom");
 ```
